@@ -1,2 +1,4 @@
 # VPS
-VPS获取(举例)，以及如何支持SS，以及托管与非托管的区别。
+***
+***
+* [VPS主机非托管还是托管](http://www.wanbianyun.com/news/news-getinfo-id-889.html)
