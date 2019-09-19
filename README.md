@@ -11,3 +11,10 @@
 
 ## VPS搭建SS
 ***
+* [教程]https://github.com/Alvin9999/new-pac/wiki
+* 如果是MAC电脑则使用 ssh 进行连接 VPS 安装即可。
+
+        // 连接服务器。
+        $ ssh root@47.101.132.207
+        
+        // 输入密码即可进入服务器，然后在跟着命令安装布置 SS 环境即可。
